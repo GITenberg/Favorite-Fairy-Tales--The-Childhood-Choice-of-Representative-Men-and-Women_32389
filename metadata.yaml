@@ -31,6 +31,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Fairy tales'
 - !lcc 'PZ'
+- GITenberg
 tableOfContents: Jack, the giant-killer -- Cinderella; or, The little glass slipper
   -- Jack and the bean-stalk -- The sleeping beauty in the wood -- Little Red-riding-hood
   -- The ugly duckling -- Hop-o'-my-thumb -- Beauty and the beast -- Little Snowdrop
